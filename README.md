@@ -19,7 +19,7 @@ I take raw, messy data, and with a little bit of magic, create insightful, visua
 - **Analytical Thinker**: Data challenges are presented in front of me with a curious mindset and a problem-solving attitude. 🤔🔎
 
 ## 🔗 Connect with me :
-- **Linkedin**: [linkedin.com/in/arun](https://www.linkedin.com/in/arun) 🌐
+- **Linkedin**: [linkedin.com/in/arun](https://www.linkedin.com/in/arun-deep-04964b258/) 🌐
 - **GitHub**: [github.com/ArunCooksData](https://github.com/ArunCooksData) 👨‍💻
 - **Email**: [arundeepp9393@gmail.com](mailto:arundeepp9393@gmail.com) 📧
 
