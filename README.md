@@ -21,7 +21,7 @@ I take raw, messy data, and with a little bit of magic, create insightful, visua
 ## 🔗 Connect with me :
 - **Linkedin**: [linkedin.com/in/arun](https://www.linkedin.com/in/arun) 🌐
 - **GitHub**: [github.com/ArunCooksData](https://github.com/ArunCooksData) 👨‍💻
-- **Email**: [arundeepp@gmail.com](mailto:arundeepp@gmail.com) 📧
+- **Email**: [arundeepp9393@gmail.com](mailto:arundeepp9393@gmail.com) 📧
 
 **Let's Cook Data Together and Serve Powerful Insights! 🍳📊**
 
